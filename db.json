@@ -1,5 +1,6 @@
 {
     "jobs": [{
+            "id": 1,
             "taskId": "94d4a0e4-4fa4-4732-AMS-20210111160900-15",
             "jobId": "AMS",
             "status": "Succeeded",
@@ -15,6 +16,7 @@
             }
         },
         {
+            "id": 2,
             "taskId": "94d4a0e4-4fa4-4732-AINAPS-20210111160900-14",
             "jobId": "AINAPS",
             "status": "Scheduled",
@@ -30,6 +32,7 @@
             }
         },
         {
+            "id": 3,
             "taskId": "94d4a0e4-4fa4-4732-TPS-20210111160900-14",
             "jobId": "TPS",
             "status": "Failed",
