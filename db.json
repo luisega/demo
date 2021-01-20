@@ -13,6 +13,20 @@
 	  "lastUpdated": {
 		"updatedAt": "2021-01-11T16:10:05.567",
 		"updatedBy": "JobProducer"
+	},
+	{
+	  "taskId": "94d4a0e4-4fa4-4732-AINAPS-20210111160900-14",
+	  "jobId": "AINAPS",
+	  "status": "Scheduled",
+	  "isFinished": false,
+	  "startTime": "2021-01-11T16:10:01.010",
+	  "endTime": "",
+	  "message": "",
+	  "exitCode": 0,
+	  "logReference": "ams/94d4a0e4-4fa4-4732-ainaps-20210111160900-15.log",
+	  "lastUpdated": {
+		"updatedAt": "2021-01-11T16:10:05.567",
+		"updatedBy": "JobProducer"
 	}
   ],
   "comments": [
